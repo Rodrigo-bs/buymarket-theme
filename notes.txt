@@ -1,0 +1,23 @@
+# Create a new Theme
+
+Files:
+	- Header.php
+	- Footer.php
+	- index.php
+	- style.css
+
+Initial steps:
+	- insert informative theme comments
+		: /* 
+		Theme Name: BuyMarket
+		Theme URI: http://BuyMarket.com.br
+		Author: Rodrigo da Silva
+		Description: Um Tema Teste para Estudos.
+		Version: 1.0
+		*/
+		File: style.css
+	- Insert body class
+	- Separate header and footer
+	  (Insert wp_head() and wp_footer())
+
+#
